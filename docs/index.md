@@ -113,7 +113,7 @@ Designed for five or six years old, this kit not only provides a safe and fun le
 
 ## Expansion Board
 
-
+![Expansion Board](img/Expansion Board.png)
 
 ### Description
 
