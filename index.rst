@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: KS4048 Keyestudio microbit V2 Smart home Kit
+   :caption: KS4048 KS4049 Keyestudio microbit V2 Smart home Kit
 
    README.md
    docs/index.md
