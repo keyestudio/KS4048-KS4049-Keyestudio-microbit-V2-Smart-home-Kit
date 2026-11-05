@@ -18,7 +18,7 @@ Welcome to check out more contents from our official website:
 
 **Obtain Information and After-sales Service**
 
-1. [<span style="color: rgb(120, 12, 254);">**Codes and tutorial download:**</span>](https://xiazai.keyesrobot.cn/keyestudio/KS4048-KS4049.7z)
+1. [<span style="color: rgb(120, 12, 254);">**Click here to download codes and tutorial**</span>](https://xiazai.keyesrobot.cn/keyestudio/KS4048-KS4049.7z).
 
 2. If something is found missing or broken, or you have some difficulty learning the kit, please feel free to contact us. Welcome to send email to us: [service@keyestudio.com](http://m.138.gz.cn/webadmin/~CAmsnCrrNXhTAySKCerrIfWjjZuuWVfI/~/usr/mod_edituser.jsp?;uid=service@keyestudio.com;;clearCache=)
 
